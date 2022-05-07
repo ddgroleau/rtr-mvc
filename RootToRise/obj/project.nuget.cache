@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BU1mC3/8Aiq1Ar7d2mRPqvcHGNET/6S32GpFi4bOr7wMwl7qWkt0IK/mNUUbvJx7s8cB2nraObbE0T2/lrUx5A==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\RootToRise\\RootToRise\\RootToRise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ddgro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
