@@ -1,0 +1,73 @@
+﻿:root {
+    --rtr-military-green: #7E7F1E;
+    --rtr-green-dark: #073221;
+    --rtr-tan: #E0DDD7;
+    --rtr-eggshell: #F1F1F1;
+    --rtr-seagreen: #405E5C;
+    --rtr-olive-drab: #BDB048;
+    --rtr-brown-clay: #99634E;
+    --rtr-green: #063723;
+}
+
+.bg-milt-green {
+    background-color: var(--rtr-military-green);
+}
+
+.milt-green {
+    color: var(--rtr-military-green);
+}
+
+.bg-green-dark {
+    background-color: var(--rtr-green-dark);
+}
+
+.green-dark {
+    color: var(--rtr-green-dark);
+}
+
+.bg-tan {
+    background-color: var(--rtr-tan);
+}
+
+.tan {
+    color: var(--rtr-tan);
+}
+
+.bg-eggshell {
+    background-color: var(--rtr-eggshell);
+}
+.eggshell {
+    color: var(--rtr-eggshell);
+}
+
+.bg-seagreen {
+    background-color: var(--rtr-seagreen);
+}
+
+.seagreen {
+    color: var(--rtr-seagreen);
+}
+
+.bg-olive-drab {
+    background-color: var(--rtr-olive-drab);
+}
+
+.olive-drab {
+    color: var(--rtr-olive-drab);
+}
+
+.bg-brown-clay {
+    background-color: var(--rtr-brown-clay);
+}
+
+.brown-clay {
+    color: var(--rtr-brown-clay);
+}
+
+.bg-green {
+    background-color: var(--rtr-green);
+}
+
+.green {
+    color: var(--rtr-green);
+}
